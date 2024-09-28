@@ -1,5 +1,6 @@
 import { useState,useEffect } from "react";
-import { FaStar } from "react-icons/fa6";
+import { FaStar } from "react-icons/fa";
+
 const Clothes = () => {
     const [clothe, setclothe] = useState([]);
 
